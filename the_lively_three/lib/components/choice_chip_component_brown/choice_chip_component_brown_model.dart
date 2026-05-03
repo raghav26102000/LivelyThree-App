@@ -1,0 +1,29 @@
+import '/flutter_flow/flutter_flow_choice_chips.dart';
+import '/flutter_flow/flutter_flow_theme.dart';
+import '/flutter_flow/flutter_flow_util.dart';
+import '/flutter_flow/flutter_flow_widgets.dart';
+import '/flutter_flow/form_field_controller.dart';
+import '/flutter_flow/custom_functions.dart' as functions;
+import 'choice_chip_component_brown_widget.dart'
+    show ChoiceChipComponentBrownWidget;
+import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:provider/provider.dart';
+
+class ChoiceChipComponentBrownModel
+    extends FlutterFlowModel<ChoiceChipComponentBrownWidget> {
+  ///  State fields for stateful widgets in this component.
+
+  // State field(s) for brownChoiceChips widget.
+  FormFieldController<List<String>>? brownChoiceChipsValueController;
+  List<String>? get brownChoiceChipsValues =>
+      brownChoiceChipsValueController?.value;
+  set brownChoiceChipsValues(List<String>? val) =>
+      brownChoiceChipsValueController?.value = val;
+
+  @override
+  void initState(BuildContext context) {}
+
+  @override
+  void dispose() {}
+}

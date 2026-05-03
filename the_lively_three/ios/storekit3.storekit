@@ -1,0 +1,154 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "52D0AA38",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6753981778",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "AP32DY23Q2",
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 785712876.22213697,
+    "_locale" : "en_US",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21823432",
+      "localizations" : [
+
+      ],
+      "name" : "Unlimited Access",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+            {
+              "displayPrice" : "6.99",
+              "internalID" : "87E44CE6",
+              "numberOfPeriods" : 1,
+              "offerID" : "9896344133",
+              "paymentMode" : "payAsYouGo",
+              "referenceName" : "offer45",
+              "subscriptionPeriod" : "P1Y"
+            },
+            {
+              "displayPrice" : "39.99",
+              "internalID" : "B4F5D51D",
+              "numberOfPeriods" : 1,
+              "offerID" : "offer50",
+              "paymentMode" : "payAsYouGo",
+              "referenceName" : "offer50",
+              "subscriptionPeriod" : "P1Y"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "8.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6754893790",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Premium Access For A Year",
+              "displayName" : "Annual Gold",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "pro_yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Annual Gold",
+          "subscriptionGroupID" : "21823432",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        },
+        {
+          "adHocOffers" : [
+            {
+              "displayPrice" : "8.99",
+              "internalID" : "E768ECF3",
+              "numberOfPeriods" : 1,
+              "offerID" : "offer20",
+              "paymentMode" : "payAsYouGo",
+              "referenceName" : "offer20",
+              "subscriptionPeriod" : "P1M"
+            },
+            {
+              "displayPrice" : "6.99",
+              "internalID" : "EDD983A8",
+              "numberOfPeriods" : 1,
+              "offerID" : "offer30",
+              "paymentMode" : "payAsYouGo",
+              "referenceName" : "offer30",
+              "subscriptionPeriod" : "P1M"
+            },
+            {
+              "displayPrice" : "5.99",
+              "internalID" : "01C45360",
+              "numberOfPeriods" : 1,
+              "offerID" : "offer40",
+              "paymentMode" : "payAsYouGo",
+              "referenceName" : "offer40",
+              "subscriptionPeriod" : "P1M"
+            }
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6754893386",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Premium Access For A Month",
+              "displayName" : "Monthly Gold",
+              "locale" : "en_GB"
+            }
+          ],
+          "productID" : "pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly Gold",
+          "subscriptionGroupID" : "21823432",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "subscriptionOffersKeyPair" : {
+    "id" : "B215DF11",
+    "privateKey" : "MIGTAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBHkwdwIBAQQgg6KW/b83BLTY2UZg75CbOh32ZuAJ5d1Di6EehaWxY76gCgYIKoZIzj0DAQehRANCAAQcbXr1bOJzfbW7AcRoQly6TPTJAqcWvd08fkVJz7i3nPiuLv6UHPTxXdsLLAxk5wMJLoYmxjgxutssqzbQHp9v"
+  },
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

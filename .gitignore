@@ -1,0 +1,139 @@
+# ==============================
+
+# FLUTTER / DART
+
+# ==============================
+
+# Build outputs
+
+/build/
+/**/build/
+
+# Dart tool & packages
+
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Flutter generated files
+
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Coverage
+
+coverage/
+
+# ==============================
+
+# IDE / EDITOR / OS FILES
+
+# ==============================
+
+.idea/
+.vscode/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+xcuserdata/
+
+# ==============================
+
+# PLATFORM-SPECIFIC GENERATED
+
+# ==============================
+
+# Android
+
+android/app/src/main/assets/flutter_assets/
+android/**/build/
+
+# iOS
+
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/**/build/
+
+# macOS
+
+macos/Flutter/ephemeral/
+macos/Runner/GeneratedPluginRegistrant.*
+macos/**/build/
+
+# Windows
+
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.*
+windows/**/build/
+
+# Linux
+
+linux/flutter/ephemeral/
+linux/flutter/generated_plugin_registrant.*
+linux/**/build/
+
+# ==============================
+
+# SENSITIVE FILES (CRITICAL 🔐)
+
+# ==============================
+
+# Environment variables
+
+.env
+.env.*
+
+# Keys & credentials
+
+*.json
+*.key
+*.pem
+*.p12
+*.p8
+
+# Text files (can contain secrets like your case)
+
+*.txt
+
+# Firebase / Google configs
+
+google-services.json
+GoogleService-Info.plist
+
+# Custom config / secrets
+
+config.dart
+secrets.dart
+apikeys.dart
+
+# ==============================
+
+# ARCHIVES / LARGE FILES
+
+# ==============================
+
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# ==============================
+
+# MISC
+
+# ==============================
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.swp
+*.bak
